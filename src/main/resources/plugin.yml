@@ -1,0 +1,3 @@
+main: sappy.App
+name: sappy
+version: 0.1
